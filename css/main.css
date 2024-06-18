@@ -1,0 +1,200 @@
+/*h1{
+    background-color: tomato;
+    text-align: center;
+}
+h2{
+  text-align: center;
+}
+
+/* .vip{
+    background-color: yellow;
+    text-align: center;
+} */
+
+/* #demo{
+  background-color: blue;
+  text-align: center;
+} */
+
+/* #ourcolor{
+  color: aqua;
+}*/
+/*div{
+   default values 
+  color: black;
+  text-align: left;
+font-size: 16px;
+background-color: transparent;
+}
+.product1{
+  background-color: red;
+  width: 33.333% !important;
+  /* display:inline-block; 
+  float: left;
+  text-align: center;
+}
+
+.product1 img{
+  width: 100% !important;
+}
+
+body{
+  background-image: url('../images/img10.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  
+
+}
+
+.test{
+  width: 200px;
+  background-color: aqua;
+  padding-left: 50px;
+  padding: 60px;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  margin: 80px 40px 70px 65px;
+  margin: auto;
+  text-align: center;
+
+}
+/*.bord{
+  background-image: url(../images/two.png);
+  background-size: 100% 100%;
+  width: 200px;
+  height: 200px;
+  border-top-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  
+} */
+
+*{
+  margin: 0%;
+}
+.clear{
+  clear: both;
+}
+
+#home{
+  background-image: url('../images/shutterstock_277750193.jpg');
+  background-size: 100% 100%;
+  height: 100vh;
+}
+
+#home .caption{
+  text-align: center;
+padding-top: 100px;
+}
+
+#home .caption h1{
+  color: #ffffff;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+#home .caption p{
+color: #ffffff;
+padding: 15px 0;  
+}
+
+#home .caption .btn1 , #home .caption .btn2 {
+  background-color: #cc7a7a;
+  color: #000000;
+  
+  padding: 10px 16px;
+  border-radius: 30px;
+  font-size: 18px;
+  font-weight: 700;
+ 
+}
+
+
+#about .about-img{
+  background-color: #cc7a7a;
+  width: 40%;
+  float: left;
+}
+#about .about-img img{
+  width: 100%;
+}
+
+#about .about-info{
+
+  width: 60%;
+  float: left;
+  text-align: center;
+  padding-top: 180px;
+}
+
+#about .about-info h2{
+  font-size: 50px;
+}
+#about .about-info span{
+color: aquamarine;
+}
+#about .about-info p{
+  line-height: 32px;
+  padding: 20px;
+}
+#about .about-info .btn3{
+  background-color:transparent;
+  color: #000000;
+  padding: 10px 16px;
+  border-radius: 30px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.light-box{
+ height: 500px;
+  background-image: url(/images/bg-home.jpg);
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+#meals {
+  padding-top: 30px;
+}
+
+#meals .meal{
+  width: 25%;
+  text-align: center;
+  float: left;
+}
+
+#meals .meal img{
+  border-radius: 50%;
+  
+}
+
+#meals .meal .bordr{
+  height: 3px;
+  width: 100px ;
+  background-color: #000000;
+  
+  margin: 15px auto;
+}
+
+#meals .meal p{
+  padding-inline: 25px;
+}
+
+.navbar img{
+  width: 100px;
+  float: left;
+}
+.navbar u{
+  float: right;
+  list-style: none;
+}
+.navbar u li{
+  display: inline-block;
+  padding: 20px;
+}
+.navbar u a{
+  color: #ffffff;
+  text-decoration: none;
+
+}
